@@ -1,3 +1,3 @@
-# my-portfolio
+# My Own Portfolio
 
 My own portfolio
